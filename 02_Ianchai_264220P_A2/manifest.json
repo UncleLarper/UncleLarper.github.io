@@ -1,0 +1,15 @@
+{ 
+	"name": "Drawing in the Digital Age",
+	"short_name": "Digital Drawing",
+	"start_url": "index.html",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#b9d2e7",
+	"icons": [
+		{ 
+			"src": "images/icon.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		}
+	]
+}
